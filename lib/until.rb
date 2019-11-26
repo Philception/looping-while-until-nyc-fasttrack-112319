@@ -1,4 +1,4 @@
-def using_until
+def using_until(levitation_force)
   puts "Wingardium Leviosa"
 
     until
@@ -7,4 +7,4 @@ def using_until
     end
 end
 
-using_until
+using_until(levitation_force)
