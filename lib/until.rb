@@ -7,4 +7,4 @@ def using_until(levitation_force)
     end
 end
 
-using_until
+using_until(levitation_force)
